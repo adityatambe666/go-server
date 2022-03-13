@@ -1,3 +1,2 @@
 # Simple Golang Server
-### Routes:\hello
-###        \form.html ==> \form
+### Routes:\hello, \form.html ==> \form
